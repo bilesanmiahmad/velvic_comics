@@ -25,7 +25,9 @@ SECRET_KEY = '^rl5n_3dpjehw76ws42@9q&z6cj36w-n=5wnzu%2slwr4wzw$d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '/home/velvikomics/velvic_comics',
+]
 
 
 # Application definition
